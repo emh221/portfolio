@@ -1,5 +1,5 @@
 h1 {
-  color:green;
+  color: green;
 }
 
 h2{
@@ -35,4 +35,8 @@ body {
 
 .allkinds {
   font-style: italic;
+}
+
+.copyright {
+  float: right;
 }
