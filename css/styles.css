@@ -17,26 +17,17 @@ body {
 .img-responsive {
   width:30%;
   height:auto;
-  align: center;
-
 }
 
 .myprojects {
-  margin: 2px;
+  margin: 20px;
   border: solid green 8px;
   padding: 12px;
   background-color: #98ff98;
 }
 
 .aboutme {
-  margin: 2px;
-  border: solid green 8px;
-  padding: 12px;
-  background-color: #98ff98;
-}
-
-.title {
-  margin: 2px;
+  margin: 20px;
   border: solid green 8px;
   padding: 12px;
   background-color: #98ff98;
