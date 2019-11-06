@@ -15,7 +15,7 @@ body {
 }
 
 .img-responsive {
-  width:35%; 
+  width:30%;
   height:auto;
   align: center;
 
@@ -33,4 +33,15 @@ body {
   border: solid green 8px;
   padding: 12px;
   background-color: #98ff98;
+}
+
+.title {
+  margin: 2px;
+  border: solid green 8px;
+  padding: 12px;
+  background-color: #98ff98;
+}
+
+.allkinds {
+  font-style: italic;
 }
