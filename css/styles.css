@@ -14,6 +14,18 @@ body {
   background-color:pink;
 }
 
-img.mypic (
-  width:25%; height:auto;
-  )
+.img-responsive {
+  width:20%; height:auto;
+}
+
+.myprojects {
+  margin: 2px;
+  border: solid green 8px;
+  padding: 12px;
+}
+
+.aboutme {
+  margin: 2px;
+  border: solid green 8px;
+  padding: 12px;
+}
